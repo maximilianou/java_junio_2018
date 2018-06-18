@@ -1,0 +1,19 @@
+body{
+    background-color: lightcoral;
+    font-family: sans-serif;
+}
+.paneles {
+    width: 40%; 
+    display: inline-block ;
+    background-color: chartreuse;
+    border-radius: 10px; 
+}
+#panelTartas li{
+    background-color: chocolate;
+    color: white;
+    font-weight: bolder ;
+}
+#panelGalletas li{
+    background-color: pink;
+    font-weight: bolder ;
+}
